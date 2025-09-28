@@ -1,0 +1,14 @@
+2025-09-28 12:28:16,587 — INFO — Use pytorch device_name: cpu
+2025-09-28 12:28:16,587 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-28 12:28:22,706 — INFO — Extracted text from C:\Users\preet\OneDrive\Documents\support bot\Serri Doc.pdf, length=75239 chars
+2025-09-28 12:28:23,504 — INFO — Loaded document: C:\Users\preet\OneDrive\Documents\support bot\Serri Doc.pdf with 38 sections
+2025-09-28 12:30:51,773 — INFO — Best section index=4 for query=what is sirri ai?
+2025-09-28 12:31:37,745 — INFO — Best section index=4 for query=what is the purpose of this bot?
+2025-09-28 12:34:55,409 — INFO — Best section index=0 for query=Greeting & Introduction
+2025-09-28 12:35:19,131 — INFO — Best section index=0 for query=1\ufe0f\u20e3"Tell me about Serri"
+2025-09-28 12:35:19,717 — INFO — Best section index=0 for query=2\ufe0f\u20e3"How can Serri help my business?"
+2025-09-28 12:35:28,418 — INFO — Best section index=1 for query=3\ufe0f\u20e3"Schedule a Demo"
+2025-09-28 12:35:32,048 — INFO — Best section index=11 for query=
+2025-09-28 12:35:32,049 — ERROR — Error in QA model: `question` cannot be empty
+2025-09-28 12:36:00,573 — INFO — Best section index=1 for query=1\ufe0f\u20e3Industry & Business Type:Chatbot:
+2025-09-28 12:36:17,850 — INFO — Best section index=15 for query=financial services
