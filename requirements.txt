@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+PyPDF2
+streamlit
